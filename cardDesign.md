@@ -3,30 +3,39 @@ Namahage can be played by 2 players. Each player shares a deck and has their own
 Card Types
 
 **Villager - Human - 1**
+
 **Ongoing** - Gets +1 value for each other human card you have on your board.
 
 **Merchant - Human - 1**
+
 **On Play** - Draw a card
 
 **Dragon - Human - 3**
+
 **On Play** - Choose a human card in play and discard it.
 
 **Samurai - Human - 3**
+
 **Ongoing** - If one of your in play human cards would be discarded by an effect, you may choose to prevent that effect. Then discard this card and replace it with one from the top of the deck.
 
 **Geisha - Human - 2**
+
 **On Play** - Choose an in play human card and place it on one of your unoccupied cells.
 
 **Miko - Human - 3**
+
 **Ongoing** - All spirit cards get -1 value and all humans gets +1 value.
 
 **Priest - Human - 2**
+
 **Ongoing** - Instead of playing a card from your hand, you may take the top card from the deck, and place it on an open cell. Do not apply any **On Play** effects for that card.
 
 **Shrine- Location - 2**
+
 **On Play** - Choose an in play spirit card and flip it face-down.
 
 **Village - Location - 2**
+
 **Ongoing** - All human cards get +1 value
 
 **Kabuki - Location - 4**
