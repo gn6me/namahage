@@ -14,7 +14,7 @@ Card Types
 **Samurai - Human - 3**
 **Ongoing** - If one of your in play human cards would be discarded by an effect, you may choose to prevent that effect. Then discard this card and replace it with one from the top of the deck.
 
-Geisha - Human - 2
+**Geisha - Human - 2**
 **On Play** - Choose an in play human card and place it on one of your unoccupied cells.
 
 **Miko - Human - 3**
