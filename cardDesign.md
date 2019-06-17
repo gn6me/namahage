@@ -2,8 +2,7 @@ Namahage can be played by 2 players. Each player shares a deck and has their own
 
 Card Types
 
-**Villager - Human - 1**
-
+**Villager - Human - 1** 
 **Ongoing** - Gets +1 value for each other human card you have on your board.
 
 
